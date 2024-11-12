@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">anishka project!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save_data">Save Data</string>
+    <string name="data_will_be_displayed_here">Data will be displayed here</string>
+    <string name="enter_name1">Enter Name</string>
+    <string name="save_data1">Save Data</string>
+    <string name="data_will_be_displayed_here1">Data will be displayed here</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_data">View Data</string>
+    <string name="enter_name2">Enter Name</string>
+    <string name="save_data2">Save Data</string>
+</resources>
